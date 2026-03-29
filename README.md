@@ -32,22 +32,16 @@ https://ai-career-copilot-73yj9dsm9gk7kgeappldo4m.streamlit.app
 
 ## ▶️ How to Run Locally
 
-```bash id="2e9k2a"
+```bash
 pip install streamlit PyPDF2 matplotlib
 streamlit run app.py
 ```
 
 ---
 
-## 📸 Project Screenshots
-
-![App Screenshot](screenshot.png)
-
----
-
 ## 💡 Project Description
 
-AI Career Copilot is a smart career assistant that analyzes a user's resume and provides insights such as detected skills, suitable job roles, ATS score, and personalized career improvement suggestions. The system helps students and job seekers understand their strengths and identify missing skills required for their desired roles.
+AI Career Copilot is a smart career assistant that analyzes a user's resume and provides insights such as detected skills, suitable job roles, ATS score, and personalized career improvement suggestions.
 
 ---
 
