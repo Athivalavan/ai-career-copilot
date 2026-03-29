@@ -32,7 +32,7 @@ https://ai-career-copilot-73yj9dsm9gk7kgeappldo4m.streamlit.app
 
 ## ▶️ How to Run Locally
 
-```bash
+```bash id="2e9k2a"
 pip install streamlit PyPDF2 matplotlib
 streamlit run app.py
 ```
